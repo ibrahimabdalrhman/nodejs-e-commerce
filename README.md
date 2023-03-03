@@ -5,8 +5,7 @@ This is a Node.js e-commerce web application built using Express.js, EJS, and Mo
 - User authentication and authorization
 - Shopping cart management
 - Checkout processes
-- Payment gateway integration (Stripe and PayPal)
-- Mobile-responsive user interface
+- Payment gateway integration (Stripe )
 - MongoDB database for data storage
 - MVC pattern for easy maintenance and scalability
 
