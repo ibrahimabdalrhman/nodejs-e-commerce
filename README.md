@@ -1,5 +1,5 @@
 # Node.js E-commerce
-This is a Node.js e-commerce web application built using Express.js, EJS, and Mongoose. It provides a platform for online stores to manage their operations, such as product listings, inventory management, order processing, and payment gateway integration.
+This is a Node.js e-commerce web application built using Express.js, EJS, and Mongoose. It provides a platform for online stores to manage their operations, such as product listings, order processing, and payment gateway integration.
 
 ## Features
 - User authentication and authorization
